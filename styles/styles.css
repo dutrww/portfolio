@@ -161,7 +161,7 @@ body {
     color: var(--cor-terciaria);
 }
 
-@media (max-width: 1200px){
+@media screen and (max-width: 1024px){
     .base-curriculo{
         flex-direction: column-reverse;
         padding: 5%;
@@ -174,7 +174,7 @@ body {
 
 /* */
 
-@media (max-width: 1200px) {
+@media screen and (max-width: 1024px) {
     .cabecalho{
          padding: 10%;  
     }
