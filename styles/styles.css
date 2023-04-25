@@ -170,6 +170,10 @@ body {
     .apresentacao-curriculo {
         width: auto;
     }
+
+    .links {
+        width: 70vw;
+    }
 }
 
 /* */
