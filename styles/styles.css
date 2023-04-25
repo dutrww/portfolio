@@ -171,8 +171,32 @@ body {
         width: auto;
     }
 
+    .titulo-curriculo {
+        font-size: 1.5rem;
+    }
+
+    .conteudo-curriculo {
+        font-size: 1rem;
+    }
+
+    .paragrafo {
+        font-size: 1rem;
+    }
+
+    .titulo {
+        font-size: 1.5rem;
+    }
+
+    .subtitulo {
+        font-size: 1.25rem;
+    }
+
     .links {
         width: 70vw;
+    }
+
+    .rodape {
+        font-size: 1rem;
     }
 }
 
@@ -187,7 +211,7 @@ body {
     }
 
     .menu-links {
-        font-size: 1rem;
+        font-size: 1.25rem;
     }
 
     .apresentacao{
